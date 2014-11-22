@@ -1,3 +1,9 @@
+/*
+
+The plist command parses a plist file and indicates whether the parse was
+successful.
+
+*/
 package main
 
 import (
